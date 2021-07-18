@@ -1,0 +1,26 @@
+*{
+    background-color:#b7b7a4;
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    width: 250px;
+    border-radius: 100%;
+    margin: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.margenes{
+    margin-top: 100px;
+}
+li a{
+    text-decoration: none;
+}
+.sitio{
+    background: #ddbea9;
+    width: 50px;
+    padding: 5px;
+}
